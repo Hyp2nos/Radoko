@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView11" type="id" />
+    <item name="btn_landing_connect" type="id" />
+    <item name="imageView2" type="id" />
+    <item name="imageView" type="id" />
+    <item name="btn_landing_insciption" type="id" />
+</resources>

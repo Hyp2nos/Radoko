@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444429813551",
+    "project_id": "e-doko",
+    "storage_bucket": "e-doko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444429813551:android:77ae9b6bcd8394e8a803da",
+        "android_client_info": {
+          "package_name": "com.example.test.radokov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444429813551-nels3spkmbm9r1egjh0215pp088ht96t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKhVmkO7Yk1osTQUAvbc97IyOD56412q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444429813551-nels3spkmbm9r1egjh0215pp088ht96t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

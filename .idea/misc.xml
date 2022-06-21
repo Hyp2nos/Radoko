@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable-anydpi/ic_calendrier.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable-anydpi/ic_cherche.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable-anydpi/ic_patient.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/bg_landing.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/bg_page.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/btn_delete.xml" value="0.1445" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/btn_home_background.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/btn_round.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/btn_style.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/edit_texte_bg.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/ic_app_background.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1445" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/ic_close.xml" value="0.1445" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/ic_delete.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/ic_edit.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/ic_patient_home.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/radio_normal.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/radio_selecteur.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/radio_text.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/radioi_selected.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/searc_bg.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/drawable/search_background.xml" value="0.1485" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_ajout.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_ajout_visite.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_details_visite.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_landing.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_liste_patient.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_recherche.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/activity_test.xml" value="0.12964641885766093" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/ajout_visite.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/delete_pat_dialogue.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/details_visite.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/dialog_supp_visite.xml" value="0.15457842248413417" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/dialogue_update_pat.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/dialogue_update_visite.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/list_patient_item.xml" value="0.16" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/log_in.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/patient_item.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/sign_up.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RadokoV2/app/src/main/res/layout/visite_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

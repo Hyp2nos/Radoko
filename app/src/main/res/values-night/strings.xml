@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="liste_des_patients">LISTE DES PATIENTS</string>
+    <string name="recent">Récent</string>
+    <string name="email">Email</string>
+    <string name="ajouter_un_consultation">Ajouter un Consultation</string>
+    <string name="historique_de_visite">Historique de Visite</string>
+</resources>
