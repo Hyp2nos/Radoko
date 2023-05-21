@@ -22,7 +22,7 @@
 
             <EditText
                 android:id="@+id/chercher"
-                android:layout_width="match_parent"
+                android:layout_width="300dp"
                 android:layout_height="50dp"
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="10dp"
@@ -33,14 +33,37 @@
                 android:hint="Rechercher un patient"
                 android:inputType="textPersonName"
                 android:paddingStart="10dp" />
-
             <ImageView
                 android:id="@+id/img_srch"
-                android:layout_width="100dp"
+                android:layout_width="130dp"
                 android:layout_height="match_parent"
                 android:layout_gravity="end"
                 android:layout_weight="1"
                 app:srcCompat="@drawable/ic_cherche" />
+
+            <ImageView
+                android:id="@+id/img_face"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_baseline_face_24" />
+
+            <ImageView
+                android:id="@+id/img_digital"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/btn_finger_desactive" />
+            <ImageView
+                android:id="@+id/img_qr"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/btn__qrcode" />
+
 
         </LinearLayout>
 

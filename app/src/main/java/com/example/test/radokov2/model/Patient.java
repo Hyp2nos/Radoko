@@ -1,6 +1,7 @@
 package com.example.test.radokov2.model;
 
 import java.io.Serializable;
+import java.util.Map;
 
 public class Patient implements Serializable {
     private String nom;
@@ -13,11 +14,29 @@ public class Patient implements Serializable {
     private String docteurUid;
     private String dateAjout;
     private String profilUrl;
+    private Map<String,String> face;
+    private Map<String,String> finger;
+
+    public Map<String, String> getFace() {
+        return face;
+    }
+
+    public void setFace(Map<String, String> face) {
+        this.face = face;
+    }
+
+    public Map<String, String> getFinger() {
+        return finger;
+    }
+
+    public void setFinger(Map<String, String> finger) {
+        this.finger = finger;
+    }
 
     public Patient() {
     }
 
-    public Patient(String nom, String prenom, String date, String dateNaissance, String docteurUid, String dateAjout, String profilUrl) {
+    public Patient(String nom, String prenom, String date, String dateNaissance, String docteurUid, String dateAjout, String profilUrl, Map<String, String> face, Map<String, String> finger) {
         this.nom = nom;
         this.prenom = prenom;
         this.date = date;
@@ -26,6 +45,8 @@ public class Patient implements Serializable {
         this.docteurUid = docteurUid;
         this.dateAjout = dateAjout;
         this.profilUrl = profilUrl;
+        this.face = face;
+        this.finger = finger;
     }
 
     public String getNom() {
